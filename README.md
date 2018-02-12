@@ -4,6 +4,10 @@ Just playing around with the police API, finding most common recent outcomes in 
 
 You can try it like this:
 
+    git clone https://github.com/lukestanley/exploring_uk_police_api.git
+
+    cd exploring_uk_police_api
+
     pip install pipenv
 
     pipenv install
